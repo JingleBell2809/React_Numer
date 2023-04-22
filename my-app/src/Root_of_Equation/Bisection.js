@@ -5,6 +5,7 @@ import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement
 // import { Line } from 'react-chartjs-2';
 // import axios from 'axios';
 //register components chartjs
+//fvdb
 import { Calbisection } from "./Cal_Bisection";
 ChartJS.register(
     CategoryScale,
